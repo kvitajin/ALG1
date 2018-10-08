@@ -1,0 +1,3 @@
+/home/kvitajin/CLionProjects/vsb/alg/test_pokusy/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kvitajin/CLionProjects/vsb/alg/test_pokusy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/kvitajin/CLionProjects/vsb/alg/test_pokusy/cmake-build-debug/CMakeFiles/test_pokusy.dir

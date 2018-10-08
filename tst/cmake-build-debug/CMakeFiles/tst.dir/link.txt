@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/tst.dir/main.cpp.o  -o tst 
